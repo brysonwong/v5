@@ -1505,6 +1505,26 @@ body {
 .cid-qI9vhb0rMr .card-title {
   text-align: center;
 }
+.cid-qIhd9kISRx {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qIhd9kISRx h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qIhd9kISRx p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qIhd9kISRx .card-box {
+  padding-top: 2rem;
+}
+.cid-qIhd9kISRx .card-wrapper {
+  height: 100%;
+}
 .cid-qIacMYsEM7 {
   background-image: url("../../../assets/images/crew-22256-1-2000x1333.jpg");
 }
