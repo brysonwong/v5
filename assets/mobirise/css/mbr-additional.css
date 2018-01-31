@@ -1421,6 +1421,90 @@ body {
 .cid-qI9qMcJyDv .card-title {
   text-align: left;
 }
+.cid-qIhe052XRy {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qIhe052XRy .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qIhe052XRy .mbr-text {
+  color: #767676;
+}
+.cid-qIhe052XRy .card {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.cid-qIhe052XRy .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qIhe052XRy .card-wrapper .card-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.cid-qIhe052XRy .card-wrapper .card-img .mbr-overlay {
+  background-color: #efefef;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-qIhe052XRy .card-wrapper .card-img .mbr-section-btn {
+  display: flex;
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  margin: auto;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qIhe052XRy .card-wrapper .card-img img {
+  width: 100%;
+  height: 100%;
+}
+.cid-qIhe052XRy .card-wrapper .card-box {
+  background-color: #ffffff;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-qIhe052XRy .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-qIhe052XRy .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-qIhe052XRy .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qIhe052XRy .popup-btn .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-qIhe052XRy .popup-btn .mbr-section-btn {
+  height: 100%;
+  display: flex !important;
+  opacity: 0;
+}
+.cid-qIhe052XRy .popup-btn:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-qIhe052XRy .popup-btn:hover .mbr-section-btn {
+  opacity: 1;
+}
 .cid-qIaKTY170Z {
   padding-top: 15px;
   padding-bottom: 15px;
